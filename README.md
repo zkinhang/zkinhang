@@ -7,6 +7,8 @@ Currently, I focus on the intersection of **ROS2 software architecture, computer
 ### [Mantaray-on-IaC](https://github.com/zkinhang/Mantaray-on-IaC)
 An experimental, **cloud-native robotics infrastructure** built to orchestrate and manage Remotely Operated Vehicles (ROVs). It leverages **Ansible** and **Kubernetes** to deploy scalable **ROS2** microservices directly onto robotic hardware.
 
+![live-demo](assets/mantaray-on-IaC-demo.gif)
+
 ### [ros2-astar-path-planning](https://github.com/zkinhang/ros2-astar-path-planning)
 A custom **ROS2 package** implementing the A* path-planning algorithm, specifically engineered for autonomous underwater navigation at the **SAUVC 2025** competition.
 
