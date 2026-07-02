@@ -15,6 +15,8 @@ A custom **ROS2 package** implementing the A* path-planning algorithm, specifica
 ### [depth-anything-detector](https://github.com/zkinhang/depth-anything-detector)
 An underwater visual navigation module leveraging the **Depth-Anything** foundational model to provide real-time monocular depth estimation and perception for autonomous underwater vehicles (AUVs).
 
+![detector](assets/depth-anything-demo.png)
+
 ## 🤝 Connect With Me
 
 * 💼 **LinkedIn:** [linkedin.com/in/kin-hang-zhang-7920a8293](https://www.linkedin.com/in/kin-hang-zhang-7920a8293)
